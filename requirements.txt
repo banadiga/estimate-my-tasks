@@ -1,0 +1,4 @@
+pandas==2.2.3
+joblib==1.4.2
+click==8.1.8
+scikit-learn==1.6.1
