@@ -10,6 +10,9 @@ venv/
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
 
+# Inpud data
+*.csv
+
 # Model files
 *.pkl
 
